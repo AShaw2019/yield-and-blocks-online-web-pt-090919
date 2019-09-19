@@ -4,7 +4,6 @@ def hello_t
     puts "Hi, #{name}"
   end
 end
-end
 
 # call your method here!
 
